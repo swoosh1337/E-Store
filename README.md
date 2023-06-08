@@ -1,6 +1,6 @@
 # My E-commerce Project
-[https://vercel.com/swoosh1337/e-store#:~:text=e%2Dstore%2Ddeucf2k67%2Dswoosh1337.vercel.app
-](link)
+https://vercel.com/swoosh1337/e-store#:~:text=e%2Dstore%2Ddeucf2k67%2Dswoosh1337.vercel.app
+
 ## Description
 This project is a full stack E-commerce website built with modern web technologies: React, Next.js 13, TailwindCSS, and Stripe for payment processing. It offers a dynamic, user-friendly interface that provides a seamless shopping experience.
 
